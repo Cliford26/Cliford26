@@ -49,9 +49,9 @@
 ---
 
 ## 📫 Me Contacter
-- Email : [clifordcoffy@gmail.com]
-- Telephone  : [(+509)4470-7471]
-- Adresse : [Route des Orangers] 
+- Email : clifordcoffy@gmail.com
+- Telephone  : (+509)4470-7471
+- Adresse : Route des Orangers
 
 <!--
 **Cliford26/Cliford26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
