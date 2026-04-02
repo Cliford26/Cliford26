@@ -3,7 +3,7 @@
 ### PDG de (CLIF.MULTI-SERVICES)
 
 ![![CLIF MULTI-SERVICES](https://github.com/user-attachments/assets/3a56db26-933d-41eb-a565-33a5d5318f49)
-](https://via.placeholder.com/200)  
+(src="c:\Users\User\Pictures\CLIF.MULTI-SERVICES.jpeg])  
 *(Remplace ce lien par l’URL de ta vraie photo)*
 
 ---
