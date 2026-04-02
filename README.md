@@ -1,6 +1,6 @@
-## BIENVENUE
+## B🤗IENVENUE😊
 # Bonjour/Bonsoir alors je suis Cliford COFFY
-### PDG de "CLIF.MULTI-SERVICES"
+### PDG de "CLIF.MULTI-SERVICES"🤑👨‍💼
 
 ![CLIF MULTI-SERVICES](https://github.com/user-attachments/assets/3a56db26-933d-41eb-a565-33a5d5318f49)
 
@@ -27,16 +27,16 @@
 
 ---
 
-##  Mes Compétences
+##  👨‍🎓Mes Compétences
 ### Réseau et Système
 - Administration de système  
 - Gestion de réseau (niveau moyen)  
 
-### Coiffure
+### 👨‍🎓👨‍💼Coiffure
 - Différents modèles de coupe  
 - Niveau avancé  
 
-### Peinture
+### 🎨Peinture
 - Design mural et dessin  
 - Niveau avancé  
 
