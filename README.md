@@ -6,14 +6,14 @@
 
 ---
 
-## 🎓 Proffessions 
+## 🎓Hautes Compétences
 - Étudiant en L3 Science Informatique  
 - Entrepreneur & Business man  
-- Plombier, Électricien  
+- Plombier,
+- Électricien, 
 - Artiste,
 - Barber,
 - Cuisinier  
-- Je vis en Haïti  
 
 ---
 
