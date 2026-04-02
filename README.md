@@ -4,7 +4,6 @@
 
 ![CLIF MULTI-SERVICES](https://github.com/user-attachments/assets/3a56db26-933d-41eb-a565-33a5d5318f49)
 
-(src="c:\Users\User\Pictures\CLIF.MULTI-SERVICES.jpeg)
 ---
 
 ## 🎓 Proffessions 
