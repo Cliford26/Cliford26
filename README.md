@@ -4,12 +4,6 @@
 
 ![CLIF MULTI-SERVICES](https://github.com/user-attachments/assets/3a56db26-933d-41eb-a565-33a5d5318f49)
 
-<img src="https://raw.githubusercontent.com/Cliford26/Cliford26/main/SERVICES.jpeg" 
-     alt="Photo de profil" 
-     width="200" 
-     style="border-radius: 50%;"/>
- 
-
 
 ---
 
